@@ -1,0 +1,11 @@
+{
+  "name": "Task16",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "Task16.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victoria",
+  "license": "ISC"
+}
